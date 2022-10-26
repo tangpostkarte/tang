@@ -22,3 +22,5 @@
 ![](https://activity-graph.herokuapp.com/graph?username=tangpostkarte&theme=github)
 
 ![](https://raw.githubusercontent.com/tangpostkarte/tang/main/assets/github-contribution-grid-snake.svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangpostkarte&show_icons=true&theme=radical)

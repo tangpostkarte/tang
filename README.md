@@ -20,3 +20,5 @@
 ##### GitHub status
 
 ![](https://activity-graph.herokuapp.com/graph?username=tangpostkarte&theme=github)
+
+![](https://raw.githubusercontent.com/tangpostkarte/tangpostkarte/main/assets/github-contribution-grid-snake.svg)

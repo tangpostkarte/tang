@@ -21,4 +21,4 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=tangpostkarte&theme=github)
 
-![](https://raw.githubusercontent.com/tangpostkarte/tangpostkarte/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/tangpostkarte/tang/main/assets/github-contribution-grid-snake.svg)

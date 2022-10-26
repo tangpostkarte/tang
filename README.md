@@ -15,12 +15,33 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=22&pause=1000&vCenter=true&multiline=true&width=435&lines=%E7%9B%AE%E6%8C%87%E3%81%99%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2)](https://git.io/typing-svg)
 
-![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&color=blue) ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D) ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB) ![](https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white)
+### Front-end technology stack
+![](https://img.shields.io/badge/-Nodejs-00A95C?style=flat-square&logo=Node.js&logoColor=white)![](https://img.shields.io/badge/-Javascript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&color=blue) ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D) ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB) ![](https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white)
 
-##### GitHub status
+### Favorite distribution of Linux or Unix
+
+![](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
+![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
+![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)
+
+### Favorite programming language
+
+![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### In learning...
+![](https://img.shields.io/badge/-FreeSWITCH-0a1a3e?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-Kamailio-69a83c?style=flat-square&logoColor=white)
+#### GitHub Contribution Graph
 
 ![](https://activity-graph.herokuapp.com/graph?username=tangpostkarte&theme=github)
 
-![](https://raw.githubusercontent.com/tangpostkarte/tang/main/assets/github-contribution-grid-snake.svg)
+### Github Contribution Snake Graph
+
+![](https://raw.githubusercontent.com/tangpostkarte/tangpostkarte/main/assets/github-contribution-grid-snake.svg)
+### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangpostkarte&show_icons=true&theme=radical)

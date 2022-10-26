@@ -32,10 +32,15 @@
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### In learning...
-![](https://img.shields.io/badge/-FreeSWITCH-0a1a3e?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/-Kamailio-69a83c?style=flat-square&logoColor=white)
-#### GitHub Contribution Graph
+### Actions
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tangpostkarte&theme=dark&hide_border=true" />
+</div>
+<div align="center">
+    <img src="https://metrics.lecoq.io/tangpostkarte?template=classic&config.timezone=Asia%2FShanghai">
+</div>
+
+### GitHub Contribution Graph
 
 ![](https://activity-graph.herokuapp.com/graph?username=tangpostkarte&theme=github)
 

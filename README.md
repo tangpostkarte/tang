@@ -11,7 +11,6 @@
 </a>
 
 - 😄Read more about my [Blog](http://www.tang520.top/)
-- 👯Follow me on [掘金](https://juejin.cn/user/3544481220007736)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=22&pause=1000&vCenter=true&multiline=true&width=435&lines=%E7%9B%AE%E6%8C%87%E3%81%99%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2)](https://git.io/typing-svg)
 
